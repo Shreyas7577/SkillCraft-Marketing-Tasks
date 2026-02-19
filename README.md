@@ -38,4 +38,4 @@ To measure the success of this collaboration, we will track:
 3.  **Sentiment Analysis:** Monitoring comments for "Need," "Buying," and "Obsessed."
 
 ---
-*Prepared by: [Your Name]* *SkillCraft Technology Internship - 2026*
+*Prepared by: [shreyash deshmukh] * *SkillCraft Technology Internship - 2026*
